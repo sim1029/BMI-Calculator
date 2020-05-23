@@ -1,17 +1,17 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documentation/120.png)
 
 #  BMI Calculator
 
-## Our Goal
+## Goal
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+The goal of this app is to learn more about Optionals, solidify understanding of the MVC design pattern and to introduce the concept of Classes. Compare objects created from classes with instances of Structs learnt about earlier. 
 
-## What you will create
+## What I created
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+I have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
 
-## What you will learn
+## What I learned
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
